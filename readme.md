@@ -210,6 +210,10 @@
   </li>
 </ul>
 <p>填好之后保存，在节点列表你可以看到<strong>节点 id</strong>，记下来，待会儿写在后端配置文件里。</p>
+
+SSR节点配置：https://garygeng.com/buildsite/ssrpanel-ssr/
+
+
 <h2><span id="SSRPanel">SSRPanel一键脚本</span></h2>
 <p>https://github.com/marisn2017/ssrpanel</p>
 <p>一键脚本【仅支持Centos 7.x 64位系统】：</p>
@@ -270,5 +274,3 @@
   20.封特定国家、地区、封IP段<br />
   21.有赞云支付<br />
   22.开放API，方便自行定制改造客户端</p>
-
-SSR节点配置：https://garygeng.com/buildsite/ssrpanel-ssr/
