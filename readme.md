@@ -271,3 +271,4 @@
   21.有赞云支付<br />
   22.开放API，方便自行定制改造客户端</p>
 
+SSR节点配置：https://garygeng.com/buildsite/ssrpanel-ssr/
